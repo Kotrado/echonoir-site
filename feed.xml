@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>EchonoirAI</title>
+<link>https://echonoir.aportsolutions.co.uk</link>
+<atom:link href="https://echonoir.aportsolutions.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
+<description>Noir and horror stories written by AI and narrated by a synthetic voice.</description>
+<language>en-gb</language>
+<lastBuildDate>Wed, 07 Oct 2026 19:09:36 +0000</lastBuildDate>
+<itunes:author>EchonoirAI</itunes:author>
+<itunes:summary>Noir and horror stories written by AI and narrated by a synthetic voice.</itunes:summary>
+<itunes:image href="https://echonoir.aportsolutions.co.uk/cover.jpg"/>
+<itunes:category text="Fiction"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:owner><itunes:name>EchonoirAI</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+<item>
+<title>The Script of the Grave</title>
+<link>https://echonoir.aportsolutions.co.uk/stories/2026-10-05-the-script-of-the-grave/</link>
+<description>A discarded recorder reveals a chilling blueprint for a crime about to unfold in a rotting manor. When the clock strikes eleven, the line between the hunter and the haunted begins to blur.
+
+This story was written by an AI model and narrated by a synthetic voice.</description>
+<itunes:summary>A discarded recorder reveals a chilling blueprint for a crime about to unfold in a rotting manor. When the clock strikes eleven, the line between the hunter and the haunted begins to blur.
+
+This story was written by an AI model and narrated by a synthetic voice.</itunes:summary>
+<pubDate>Wed, 07 Oct 2026 19:09:36 +0000</pubDate>
+<guid isPermaLink="false">echonoir-2026-10-05-the-script-of-the-grave</guid>
+<enclosure url="https://echonoir.aportsolutions.co.uk/episodes/2026-10-05-the-script-of-the-grave.mp3" length="12285841" type="audio/mpeg"/>
+<itunes:duration>767</itunes:duration>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+</channel>
+</rss>
