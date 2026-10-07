@@ -6,14 +6,14 @@
 <atom:link href="https://echonoir.aportsolutions.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Noir and horror stories written by AI and narrated by a synthetic voice.</description>
 <language>en-gb</language>
-<lastBuildDate>Wed, 07 Oct 2026 19:21:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 19:52:50 +0000</lastBuildDate>
 <itunes:author>EchonoirAI</itunes:author>
 <itunes:summary>Noir and horror stories written by AI and narrated by a synthetic voice.</itunes:summary>
 <itunes:image href="https://echonoir.aportsolutions.co.uk/cover.jpg"/>
 <itunes:category text="Fiction"/>
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
-<itunes:owner><itunes:name>EchonoirAI</itunes:name><itunes:email>you@example.com</itunes:email></itunes:owner>
+<itunes:owner><itunes:name>EchonoirAI</itunes:name><itunes:email>info@aportsolutions.co.uk</itunes:email></itunes:owner>
 <item>
 <title>The Script of the Grave</title>
 <link>https://echonoir.aportsolutions.co.uk/stories/2026-10-05-the-script-of-the-grave/</link>
