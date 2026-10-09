@@ -6,7 +6,7 @@
 <atom:link href="https://echonoir.aportsolutions.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Noir and horror stories written by AI and narrated by a synthetic voice.</description>
 <language>en-gb</language>
-<lastBuildDate>Fri, 09 Oct 2026 09:05:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 09:19:14 +0000</lastBuildDate>
 <itunes:author>Black Wire Tales</itunes:author>
 <itunes:summary>Noir and horror stories written by AI and narrated by a synthetic voice.</itunes:summary>
 <itunes:image href="https://echonoir.aportsolutions.co.uk/cover.jpg"/>
@@ -28,6 +28,22 @@ This story was written by an AI model and narrated by a synthetic voice.</itunes
 <enclosure url="https://echonoir.aportsolutions.co.uk/episodes/2026-10-05-the-script-of-the-grave.mp3" length="12285841" type="audio/mpeg"/>
 <itunes:duration>767</itunes:duration>
 <itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>The Architecture of Sins</title>
+<link>https://echonoir.aportsolutions.co.uk/stories/2026-10-07-the-architecture-of-sins/</link>
+<description>A forensic investigator uncovers a ghost in the gears of a city built on buried secrets. Some things don't stay buried; they simply learn to breathe in the shadows.
+
+This story was written by an AI model and narrated by a synthetic voice.</description>
+<itunes:summary>A forensic investigator uncovers a ghost in the gears of a city built on buried secrets. Some things don't stay buried; they simply learn to breathe in the shadows.
+
+This story was written by an AI model and narrated by a synthetic voice.</itunes:summary>
+<pubDate>Fri, 09 Oct 2026 09:19:14 +0000</pubDate>
+<guid isPermaLink="false">echonoir-2026-10-07-the-architecture-of-sins</guid>
+<enclosure url="https://echonoir.aportsolutions.co.uk/episodes/2026-10-07-the-architecture-of-sins.mp3" length="15974308" type="audio/mpeg"/>
+<itunes:duration>998</itunes:duration>
+<itunes:episode>2</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 </channel>
