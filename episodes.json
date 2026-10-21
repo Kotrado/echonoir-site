@@ -25,5 +25,25 @@
     "bytes": 16577276,
     "duration_seconds": 1008.9,
     "pub_date": "2026-10-12T19:10:34+00:00"
+  },
+  {
+    "slug": "2026-10-20-the-larkspur-cylinders",
+    "title": "The Larkspur Cylinders",
+    "teaser": "A bell-ringer takes a garret in a fog-bound lodging house and finds a phonograph cylinder bearing his own voice, begging forgiveness for a drowning he never committed. Each night brings another recording, and every prophecy on them comes true.",
+    "url": "https://echonoir.aportsolutions.co.uk/episodes/2026-10-20-the-larkspur-cylinders.mp3",
+    "bytes": 15839099,
+    "duration_seconds": 962.7,
+    "pub_date": "2026-10-21T14:22:48+00:00",
+    "tags": [
+      "gothic",
+      "ghost story",
+      "victorian",
+      "mystery"
+    ],
+    "style": "gothic",
+    "transcript": {
+      "vtt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-10-20-the-larkspur-cylinders.vtt",
+      "srt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-10-20-the-larkspur-cylinders.srt"
+    }
   }
 ]
