@@ -45,5 +45,25 @@
       "vtt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-10-20-the-larkspur-cylinders.vtt",
       "srt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-10-20-the-larkspur-cylinders.srt"
     }
+  },
+  {
+    "slug": "2026-10-21-the-fare-to-nowhere",
+    "title": "The Fare to Nowhere",
+    "teaser": "Every night the app freezes for four seconds, and every night a silent passenger sits a little closer to the driver's seat. Douglas Whitlow has a cold flask, a dead address, and a growing suspicion that his rider has never wanted to arrive.",
+    "url": "https://echonoir.aportsolutions.co.uk/episodes/2026-10-21-the-fare-to-nowhere.mp3",
+    "bytes": 17788455,
+    "duration_seconds": 1084.6,
+    "pub_date": "2026-10-28T10:49:24+00:00",
+    "tags": [
+      "ghost story",
+      "taxi",
+      "supernatural",
+      "british fiction"
+    ],
+    "style": "cosmic",
+    "transcript": {
+      "vtt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-10-21-the-fare-to-nowhere.vtt",
+      "srt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-10-21-the-fare-to-nowhere.srt"
+    }
   }
 ]
