@@ -6,7 +6,7 @@
 <atom:link href="https://echonoir.aportsolutions.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Noir and horror stories written by AI and narrated by a synthetic voice.</description>
 <language>en-gb</language>
-<lastBuildDate>Wed, 28 Oct 2026 14:27:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 12:00:10 +0000</lastBuildDate>
 <itunes:author>Black Wire Tales</itunes:author>
 <itunes:summary>Noir and horror stories written by AI and narrated by a synthetic voice.</itunes:summary>
 <itunes:image href="https://echonoir.aportsolutions.co.uk/cover.jpg"/>
@@ -14,48 +14,6 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:owner><itunes:name>Black Wire Tales</itunes:name><itunes:email>info@aportsolutions.co.uk</itunes:email></itunes:owner>
-<item>
-<title>The Script of the Grave</title>
-<link>https://echonoir.aportsolutions.co.uk/stories/2026-10-05-the-script-of-the-grave/</link>
-<description>A discarded recorder reveals a chilling blueprint for a crime about to unfold in a rotting manor. When the clock strikes eleven, the line between the hunter and the haunted begins to blur.
-
-Read the story: https://echonoir.aportsolutions.co.uk/stories/2026-10-05-the-script-of-the-grave/
-
-This story was written by an AI model and narrated by a synthetic voice.</description>
-<itunes:summary>A discarded recorder reveals a chilling blueprint for a crime about to unfold in a rotting manor. When the clock strikes eleven, the line between the hunter and the haunted begins to blur.
-
-Read the story: https://echonoir.aportsolutions.co.uk/stories/2026-10-05-the-script-of-the-grave/
-
-This story was written by an AI model and narrated by a synthetic voice.</itunes:summary>
-<content:encoded><![CDATA[<p>A discarded recorder reveals a chilling blueprint for a crime about to unfold in a rotting manor. When the clock strikes eleven, the line between the hunter and the haunted begins to blur.</p><p>Read the story: <a href="https://echonoir.aportsolutions.co.uk/stories/2026-10-05-the-script-of-the-grave/">https://echonoir.aportsolutions.co.uk/stories/2026-10-05-the-script-of-the-grave/</a></p><p><em>This story was written by an AI model and narrated by a synthetic voice.</em></p>]]></content:encoded>
-<pubDate>Wed, 07 Oct 2026 19:21:21 +0000</pubDate>
-<guid isPermaLink="false">echonoir-2026-10-05-the-script-of-the-grave</guid>
-<enclosure url="https://echonoir.aportsolutions.co.uk/episodes/2026-10-05-the-script-of-the-grave.mp3" length="12285841" type="audio/mpeg"/>
-<itunes:duration>767</itunes:duration>
-<itunes:episode>1</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-<title>The Architecture of Sins</title>
-<link>https://echonoir.aportsolutions.co.uk/stories/2026-10-07-the-architecture-of-sins/</link>
-<description>A forensic investigator uncovers a ghost in the gears of a city built on buried secrets. Some things don't stay buried; they simply learn to breathe in the shadows.
-
-Read the story: https://echonoir.aportsolutions.co.uk/stories/2026-10-07-the-architecture-of-sins/
-
-This story was written by an AI model and narrated by a synthetic voice.</description>
-<itunes:summary>A forensic investigator uncovers a ghost in the gears of a city built on buried secrets. Some things don't stay buried; they simply learn to breathe in the shadows.
-
-Read the story: https://echonoir.aportsolutions.co.uk/stories/2026-10-07-the-architecture-of-sins/
-
-This story was written by an AI model and narrated by a synthetic voice.</itunes:summary>
-<content:encoded><![CDATA[<p>A forensic investigator uncovers a ghost in the gears of a city built on buried secrets. Some things don't stay buried; they simply learn to breathe in the shadows.</p><p>Read the story: <a href="https://echonoir.aportsolutions.co.uk/stories/2026-10-07-the-architecture-of-sins/">https://echonoir.aportsolutions.co.uk/stories/2026-10-07-the-architecture-of-sins/</a></p><p><em>This story was written by an AI model and narrated by a synthetic voice.</em></p>]]></content:encoded>
-<pubDate>Fri, 09 Oct 2026 09:19:14 +0000</pubDate>
-<guid isPermaLink="false">echonoir-2026-10-07-the-architecture-of-sins</guid>
-<enclosure url="https://echonoir.aportsolutions.co.uk/episodes/2026-10-07-the-architecture-of-sins.mp3" length="15974308" type="audio/mpeg"/>
-<itunes:duration>998</itunes:duration>
-<itunes:episode>2</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
 <item>
 <title>Ten Minutes Fast</title>
 <link>https://echonoir.aportsolutions.co.uk/stories/2026-10-12-ten-minutes-fast/</link>
@@ -74,7 +32,7 @@ This story was written by an AI model and narrated by a synthetic voice.</itunes
 <guid isPermaLink="false">echonoir-2026-10-12-ten-minutes-fast</guid>
 <enclosure url="https://echonoir.aportsolutions.co.uk/episodes/2026-10-12-ten-minutes-fast.mp3" length="16577276" type="audio/mpeg"/>
 <itunes:duration>1008</itunes:duration>
-<itunes:episode>3</itunes:episode>
+<itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
 <item>
@@ -99,7 +57,7 @@ This story was written by an AI model and narrated by a synthetic voice.</itunes
 <guid isPermaLink="false">echonoir-2026-10-20-the-larkspur-cylinders</guid>
 <enclosure url="https://echonoir.aportsolutions.co.uk/episodes/2026-10-20-the-larkspur-cylinders.mp3" length="15839099" type="audio/mpeg"/>
 <itunes:duration>962</itunes:duration>
-<itunes:episode>4</itunes:episode>
+<itunes:episode>2</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <podcast:transcript url="https://echonoir.aportsolutions.co.uk/transcripts/2026-10-20-the-larkspur-cylinders.vtt" type="text/vtt" language="en"/>
 <podcast:transcript url="https://echonoir.aportsolutions.co.uk/transcripts/2026-10-20-the-larkspur-cylinders.srt" type="application/x-subrip" language="en"/>
@@ -126,7 +84,7 @@ This story was written by an AI model and narrated by a synthetic voice.</itunes
 <guid isPermaLink="false">echonoir-2026-10-21-the-fare-to-nowhere</guid>
 <enclosure url="https://echonoir.aportsolutions.co.uk/episodes/2026-10-21-the-fare-to-nowhere.mp3" length="17924292" type="audio/mpeg"/>
 <itunes:duration>1093</itunes:duration>
-<itunes:episode>5</itunes:episode>
+<itunes:episode>3</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <podcast:transcript url="https://echonoir.aportsolutions.co.uk/transcripts/2026-10-21-the-fare-to-nowhere.vtt" type="text/vtt" language="en"/>
 <podcast:transcript url="https://echonoir.aportsolutions.co.uk/transcripts/2026-10-21-the-fare-to-nowhere.srt" type="application/x-subrip" language="en"/>
