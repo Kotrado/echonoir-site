@@ -67,5 +67,35 @@
       "vtt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-10-29-the-green-coat-lease.vtt",
       "srt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-10-29-the-green-coat-lease.srt"
     }
+  },
+  {
+    "slug": "2026-11-05-the-ash-tree",
+    "title": "The Ash-Tree",
+    "teaser": "In a damp Suffolk country house, a condemned woman whispers a promise on the gallows, and an old ash-tree keeps its own counsel beneath the moon. When the squire is found dead and blackened, something far stranger than poison may be at work.",
+    "url": "https://echonoir.aportsolutions.co.uk/episodes/2026-11-05-the-ash-tree.mp3",
+    "bytes": 29085468,
+    "duration_seconds": 1790.7,
+    "pub_date": "2026-11-09T14:36:58+00:00",
+    "tags": [
+      "ghost story",
+      "m.r. james",
+      "witchcraft",
+      "gothic"
+    ],
+    "style": "ghost",
+    "kind": "classic",
+    "author": "M. R. James",
+    "year": "1904",
+    "source": {
+      "file": "james__ghost_stories_of_an_antiquary.txt",
+      "gutenberg_id": "8486",
+      "url": "https://www.gutenberg.org/ebooks/8486"
+    },
+    "sound_credit": true,
+    "special": true,
+    "transcript": {
+      "vtt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-11-05-the-ash-tree.vtt",
+      "srt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-11-05-the-ash-tree.srt"
+    }
   }
 ]

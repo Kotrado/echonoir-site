@@ -4,11 +4,11 @@
 <title>Black Wire Tales</title>
 <link>https://echonoir.aportsolutions.co.uk</link>
 <atom:link href="https://echonoir.aportsolutions.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Noir and horror stories written by AI and narrated by a synthetic voice.</description>
+<description>Original horror and noir stories written by AI, plus occasional classic ghost stories from the public domain, narrated by a synthetic voice.</description>
 <language>en-gb</language>
-<lastBuildDate>Wed, 04 Nov 2026 20:10:06 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 14:36:58 +0000</lastBuildDate>
 <itunes:author>Black Wire Tales</itunes:author>
-<itunes:summary>Noir and horror stories written by AI and narrated by a synthetic voice.</itunes:summary>
+<itunes:summary>Original horror and noir stories written by AI, plus occasional classic ghost stories from the public domain, narrated by a synthetic voice.</itunes:summary>
 <itunes:image href="https://echonoir.aportsolutions.co.uk/cover.jpg"/>
 <itunes:category text="Fiction"/>
 <itunes:explicit>false</itunes:explicit>
@@ -115,6 +115,36 @@ This story was written by an AI model and narrated by a synthetic voice.</itunes
 <itunes:episodeType>full</itunes:episodeType>
 <podcast:transcript url="https://echonoir.aportsolutions.co.uk/transcripts/2026-10-29-the-green-coat-lease.vtt" type="text/vtt" language="en"/>
 <podcast:transcript url="https://echonoir.aportsolutions.co.uk/transcripts/2026-10-29-the-green-coat-lease.srt" type="application/x-subrip" language="en"/>
+</item>
+<item>
+<title>From the Black Wire Archive: The Ash-Tree</title>
+<link>https://echonoir.aportsolutions.co.uk/stories/2026-11-05-the-ash-tree/</link>
+<description>In a damp Suffolk country house, a condemned woman whispers a promise on the gallows, and an old ash-tree keeps its own counsel beneath the moon. When the squire is found dead and blackened, something far stranger than poison may be at work.
+
+Read the story: https://echonoir.aportsolutions.co.uk/stories/2026-11-05-the-ash-tree/
+
+Genre: Classic ghost story. Themes: ghost story, m.r. james, witchcraft, gothic.
+
+A public-domain story by M. R. James (1904), narrated by a synthetic voice, with sound design and artwork by Black Wire Tales. Text from Project Gutenberg (ebook 8486).
+
+Some sounds were made with Stable Audio Open. Powered by Stability AI.</description>
+<itunes:summary>In a damp Suffolk country house, a condemned woman whispers a promise on the gallows, and an old ash-tree keeps its own counsel beneath the moon. When the squire is found dead and blackened, something far stranger than poison may be at work.
+
+Read the story: https://echonoir.aportsolutions.co.uk/stories/2026-11-05-the-ash-tree/
+
+Genre: Classic ghost story. Themes: ghost story, m.r. james, witchcraft, gothic.
+
+A public-domain story by M. R. James (1904), narrated by a synthetic voice, with sound design and artwork by Black Wire Tales. Text from Project Gutenberg (ebook 8486).
+
+Some sounds were made with Stable Audio Open. Powered by Stability AI.</itunes:summary>
+<content:encoded><![CDATA[<p>In a damp Suffolk country house, a condemned woman whispers a promise on the gallows, and an old ash-tree keeps its own counsel beneath the moon. When the squire is found dead and blackened, something far stranger than poison may be at work.</p><p>Read the story: <a href="https://echonoir.aportsolutions.co.uk/stories/2026-11-05-the-ash-tree/">https://echonoir.aportsolutions.co.uk/stories/2026-11-05-the-ash-tree/</a></p><p>Genre: Classic ghost story. Themes: ghost story, m.r. james, witchcraft, gothic.</p><p><em>A public-domain story by M. R. James (1904), narrated by a synthetic voice, with sound design and artwork by Black Wire Tales. Text from Project Gutenberg (ebook 8486).</em></p><p><em>Some sounds were made with Stable Audio Open. Powered by Stability AI.</em></p>]]></content:encoded>
+<pubDate>Mon, 09 Nov 2026 14:36:58 +0000</pubDate>
+<guid isPermaLink="false">echonoir-2026-11-05-the-ash-tree</guid>
+<enclosure url="https://echonoir.aportsolutions.co.uk/episodes/2026-11-05-the-ash-tree.mp3" length="29085468" type="audio/mpeg"/>
+<itunes:duration>1790</itunes:duration>
+<itunes:episodeType>bonus</itunes:episodeType>
+<podcast:transcript url="https://echonoir.aportsolutions.co.uk/transcripts/2026-11-05-the-ash-tree.vtt" type="text/vtt" language="en"/>
+<podcast:transcript url="https://echonoir.aportsolutions.co.uk/transcripts/2026-11-05-the-ash-tree.srt" type="application/x-subrip" language="en"/>
 </item>
 </channel>
 </rss>
