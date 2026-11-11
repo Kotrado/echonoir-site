@@ -97,5 +97,26 @@
       "vtt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-11-05-the-ash-tree.vtt",
       "srt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-11-05-the-ash-tree.srt"
     }
+  },
+  {
+    "slug": "2026-11-09-the-night-count",
+    "title": "The Night Count",
+    "teaser": "At two in the morning, a pharmacist finds a blister pack holding more tablets than the register allows, and the number keeps climbing. Someone has been checking his work every night for years, and he has never looked at the second signature.",
+    "url": "https://echonoir.aportsolutions.co.uk/episodes/2026-11-09-the-night-count.mp3",
+    "bytes": 17482506,
+    "duration_seconds": 1065.5,
+    "pub_date": "2026-11-11T15:21:42+00:00",
+    "tags": [
+      "ghost story",
+      "pharmacy",
+      "night shift",
+      "slow-burn horror"
+    ],
+    "style": "cosmic",
+    "sound_credit": true,
+    "transcript": {
+      "vtt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-11-09-the-night-count.vtt",
+      "srt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-11-09-the-night-count.srt"
+    }
   }
 ]
