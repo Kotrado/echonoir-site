@@ -118,5 +118,26 @@
       "vtt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-11-09-the-night-count.vtt",
       "srt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-11-09-the-night-count.srt"
     }
+  },
+  {
+    "slug": "2026-11-13-the-last-ferry-to-tamarisk",
+    "title": "The Last Ferry to Tamarisk",
+    "teaser": "On election night, an aging ferryman climbs a soot-black newspaper tower to collect his dead brother's notice, and finds a line on it that he never wrote. In a newsroom where every typist's lips move without a sound, the river is still owed a debt.",
+    "url": "https://echonoir.aportsolutions.co.uk/episodes/2026-11-13-the-last-ferry-to-tamarisk.mp3",
+    "bytes": 21717704,
+    "duration_seconds": 1330.2,
+    "pub_date": "2026-11-15T10:31:43+00:00",
+    "tags": [
+      "supernatural",
+      "gothic",
+      "newsroom",
+      "river"
+    ],
+    "style": "cosmic",
+    "sound_credit": true,
+    "transcript": {
+      "vtt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-11-13-the-last-ferry-to-tamarisk.vtt",
+      "srt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-11-13-the-last-ferry-to-tamarisk.srt"
+    }
   }
 ]
