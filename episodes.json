@@ -139,5 +139,26 @@
       "vtt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-11-13-the-last-ferry-to-tamarisk.vtt",
       "srt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-11-13-the-last-ferry-to-tamarisk.srt"
     }
+  },
+  {
+    "slug": "2026-11-13-the-surveyor-beneath-thorpe-lodge",
+    "title": "The Surveyor Beneath Thorpe Lodge",
+    "teaser": "Hired to save a roofless abbey, Miss Ashworth finds warm candle stubs on bricked-up sills and a plan of a chapel no map admits exists. When a telephone rings in a house with no line, she learns who has been counting those who measure.",
+    "url": "https://echonoir.aportsolutions.co.uk/episodes/2026-11-13-the-surveyor-beneath-thorpe-lodge.mp3",
+    "bytes": 18817060,
+    "duration_seconds": 1148.9,
+    "pub_date": "2026-11-26T08:27:24+00:00",
+    "tags": [
+      "gothic horror",
+      "ghost story",
+      "victorian ruins",
+      "audio fiction"
+    ],
+    "style": "gothic",
+    "sound_credit": true,
+    "transcript": {
+      "vtt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-11-13-the-surveyor-beneath-thorpe-lodge.vtt",
+      "srt": "https://echonoir.aportsolutions.co.uk/transcripts/2026-11-13-the-surveyor-beneath-thorpe-lodge.srt"
+    }
   }
 ]
